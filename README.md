@@ -1,4 +1,4 @@
 # tzeeeentch
 
 Some basic info:
-Go / Clojure / Python
+Go / Scala / Python
