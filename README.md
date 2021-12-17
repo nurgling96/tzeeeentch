@@ -1,4 +1,4 @@
-# tzeeeentch
+# Tzeeeentch
 
 Some basic info:
-Go / Scala / Python
+Go / JavaScript / TypeScript / Python
